@@ -39,3 +39,5 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST := ro.product.model
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="Moto G5 Plus" \
     DEVICE_MAINTAINERS="Nick van Bokhorst (GtrCraft)"
+
+export DOT_OFFICIAL=true
