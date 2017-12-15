@@ -41,3 +41,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     BUILD_FINGERPRINT=motorola/potter/potter:7.0/NPNS25.137-33-11/11:user/release-keys \
     PRIVATE_BUILD_DESC="potter-7.0/NPNS25.137-33-11/11:user/release-keys" \
     PRODUCT_NAME="Moto G5 Plus"
+
+#dot stuff
+ DOT_OFFICIAL := true
+ 
+ ROOT_METHOD := magisk
