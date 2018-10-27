@@ -15,6 +15,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     android-support-v7-appcompat \
     android-support-v7-preference \
     android-support-v7-recyclerview \
+    android-support-v7-recyclerview \
     android-support-v14-preference
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
